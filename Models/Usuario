@@ -1,0 +1,6 @@
+public class Usuario
+{
+    public int idUsuario{get;set;}
+    public string Usuario{get;set;}
+    public String Clave{get;set;}
+}
